@@ -16,7 +16,7 @@ Following are the types are available (to be updated)
 ```
 \1
 int Index
-string Organization Id
+string Organization_Id
 string Name
 string website
 string Country
@@ -73,7 +73,7 @@ This is the boundary of depth 1. Consider <1> is starting boundary and </1> as e
 <1>
 </1>
 ```
-Each data record is enclosed within data opening and closing tag. Each data value has to be on a newline. The data value would be check against the data type declare in the structure only if mandatory
+Each data record is enclosed within data opening and closing tag. Each data value has to be on a newline. The data value would be check against the data type declare in the structure only if mandatory. The ordering of the data value has to be follow same in the structure
 ```
 <data>
 1
@@ -121,4 +121,3 @@ The data used in the explanation is for example purpose only. The data is not re
 ## Progress
 * Finalize the file format specification (OTW)
 * Create a parser for Suzuran (OTW)
-
