@@ -56,7 +56,7 @@ User-centric system-worthy leverage
 ```
 Below is representing the structure of the data and their type at depth 1.
 int Index meaning the data Index is of type integer.
-string Organization Id meaning the data Organization_Id is of string type.
+string Organization_Id meaning the data Organization_Id is of string type.
 ```
 int Index
 string Organization_Id
