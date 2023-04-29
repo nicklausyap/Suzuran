@@ -9,7 +9,12 @@ Below is a look at the Suzuran specification:
 
 Following are the types are available (to be updated)
 * **int**: represent integer
+* **uint**: represent unsigned integer
+* **float**: represent an IEEE-754 64-bit floating-point number
+* **char**: represent a single character
 * **string**: represent string
+* **bool**: represent a boolean value
+* **nil**: represent a null value
 
 ## Explanation
 
