@@ -15,6 +15,7 @@ Following are the types are available (to be updated)
 * **string**: represent string
 * **bool**: represent a boolean value
 * **nil**: represent a null value
+* **any**: represent any type of value
 
 ## Explanation
 
